@@ -1,4 +1,4 @@
-# 👋 Hola, soy José Luis Capote
+# 👋 Hola, soy Jose Luis Capote
 
 Desarrollador de software & emprendedor enfocado en la definición y optimización de procesos del comercio electrónico mediante sistemas informáticos.
 
