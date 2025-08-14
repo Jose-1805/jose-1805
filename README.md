@@ -16,7 +16,7 @@ Diseño, construyo y optimizo soluciones full‑stack que mejoran conversión, e
 -   Experiencia integrando stacks modernos (Laravel + React/Next.js + TypeScript + MongoDB/MariaDB).
 -   Implementación de funnels de venta y automatización de procesos.
 -   Despliegues en múltiples entornos cloud (Google Cloud, DigitalOcean, Cloudflare) con enfoque en rendimiento y mantenibilidad.
--   Mentalidad de producto y emprendimiento (Boostec, TrSoft).
+-   Mentalidad de producto y emprendimiento (Co‑fundador en Boostec).
 -   Soft skills: Creatividad, proactividad, comunicación, resolución de problemas, autoaprendizaje y visión emprendedora.
 
 ---
@@ -39,23 +39,23 @@ Diseño, construyo y optimizo soluciones full‑stack que mejoran conversión, e
 
 ## 📈 En lo que estoy trabajando ahora
 
--   Desarrollo y optimización de soluciones para Boostec (funnels, paneles, automatización y escalabilidad) → https://boostec.app
--   Mejora continua de patrones de arquitectura: desacoplamiento, caching, observabilidad.
+-   Co‑fundador y desarrollador en Boostec (diseño, optimización, automatización y escalabilidad) → https://boostec.app
+-   Mejora e innovación continua para obtención de mejores resultados de los e-commerce.
 -   Estrategias para reducir tiempos de carga y mejorar métricas Core Web Vitals.
 
 ---
 
 ## 💼 Experiencia Destacada (Resumen Cronológico)
 
-| Periodo       | Rol                       | Organización | Enfoques Clave                                         |
-| ------------- | ------------------------- | ------------ | ------------------------------------------------------ |
-| 2023 - Actual | Desarrollador de software | Boostec      | Funnels, Full‑Stack, MongoDB, Infra DO/Cloudflare      |
-| 2020 - 2024   | Desarrollador de software | Batericars   | Back & Front Office, MariaDB, Cloud, UI/UX interno     |
-| 2019 - 2020   | Desarrollador de software | TrSoft       | Full‑Stack, optimización y despliegues                 |
-| 2019          | Desarrollador de software | SENA         | Formación, hosting compartido, desarrollo colaborativo |
-| 2018          | Desarrollador de software | SENA         | Arquitectura y mentoring                               |
-| 2015 - 2018   | Desarrollador de software | Fireos SAS   | Mantenimiento, correcciones, evolución de software     |
-| 2017          | Desarrollador de software | SENA         | Soporte y capacitación                                 |
+| Periodo       | Rol                         | Organización | Enfoques Clave                                         |
+| ------------- | --------------------------- | ------------ | ------------------------------------------------------ |
+| 2023 - Actual | Co‑fundador / Desarrollador | Boostec      | Full‑Stack, MongoDB, Infra DO/Cloudflare               |
+| 2020 - 2024   | Desarrollador de software   | Batericars   | Back & Front Office, MariaDB, Cloud, UI/UX interno     |
+| 2019 - 2020   | Co‑fundador / Desarrollador | TrSoft       | Full‑Stack, optimización y despliegues                 |
+| 2019          | Desarrollador de software   | SENA         | Formación, hosting compartido, desarrollo colaborativo |
+| 2018          | Desarrollador de software   | SENA         | Arquitectura y mentoring                               |
+| 2015 - 2018   | Desarrollador de software   | Fireos SAS   | Mantenimiento, correcciones, evolución de software     |
+| 2017          | Desarrollador de software   | SENA         | Soporte y capacitación                                 |
 
 ---
 
